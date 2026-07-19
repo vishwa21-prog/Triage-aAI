@@ -4,6 +4,8 @@
 
 Built for Idea2Impact 2026 — Theme 3: Crisis Management, HealthTech & Emergency Response.
 
+LIVE LINK: https://stalwart-valkyrie-c0b010.netlify.app/
+
 ## The problem
 
 Rural PHCs (Primary Health Centers) in India routinely triage patients on a
